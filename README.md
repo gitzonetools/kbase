@@ -1,6 +1,8 @@
 ---
-description: tools to setup a mac properly
+description: a collection of findings at Lossless
 ---
 
-# Infrastructure Management
+# Git.Zone Knowledgebase
+
+This is our approach of sharing our knowledge at Lossless with the world
 
