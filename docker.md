@@ -46,7 +46,7 @@ ENV PATH /root/.yarn/bin:$PATH
 
 **Manage containers and images**
 
-```text
+```bash
 # Remove all containers
 docker rm $(docker ps -a -q)
 
