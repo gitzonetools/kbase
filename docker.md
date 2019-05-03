@@ -2,7 +2,7 @@
 description: Comulative learnings from using Docker at Lossless GmbH
 ---
 
-# Docker
+# Docker - Getting Started
 
 Docker is the most common container engine and format around. SUpport across major clouds is excellent.
 
@@ -36,13 +36,6 @@ exit
 ```
 
 > **Note:** the latest release for **docker-compose** is: [![GitHub version](https://camo.githubusercontent.com/b2ad4e97f455cf2d56b13edc6d5208581ead1a59/68747470733a2f2f62616467652e667572792e696f2f67682f646f636b6572253246636f6d706f73652e737667)](https://badge.fury.io/gh/docker%2Fcompose)
-
-#### Things that are good to know when building containers
-
-```bash
-# adding things to path
-ENV PATH /root/.yarn/bin:$PATH
-```
 
 **Manage containers and images**
 

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Mac](README.md)
-* [Docker](docker.md)
-* [Untitled](untitled-1.md)
+* [Infrastructure Management](README.md)
+* [Docker - Getting Started](docker.md)
+* [Docker - Building Containers](untitled-1.md)
+* [Docker - managing a production swarm](docker-managing-a-production-swarm.md)
 
